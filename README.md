@@ -22,11 +22,11 @@ Capacitar os alunos a compreender, projetar e implementar modelos de IA, desenvo
 A disciplina é dividida em 20 semanas, com aulas semanais e a seguinte distribuição de atividades:
 
 * **50% Prático:** Implementações, projetos e experimentos.
-* **50% Teórico:** Conceitos avançados e avaliações.
+* **50% Teórico:** Conceitos e avaliações.
 
 ### 📝 Componentes da Avaliação
 
-* **Provas (40%):** Duas provas que abrangem teoria e prática avançadas (Semanas 8 e 18).
+* **Provas (40%):** Duas provas que abrangem teoria e prática (Semanas 8 e 18).
 * **Projetos (30%):** Dois projetos práticos de IA (Semanas 9 e 19).
 * **Seminários (20%):** Apresentações e debates sobre temas específicos de IA.
 * **Atividades Semanais (10%):** Experimentos, relatórios e participações.
@@ -46,24 +46,24 @@ A disciplina é dividida em 20 semanas, com aulas semanais e a seguinte distribu
 | 7       | 📝 Revisão                                  | Consolidação dos conceitos de aprendizado de máquina.                           | Revisão de tópicos anteriores, resolução de problemas     |
 | 8       | 📝 Prova                                    | Avaliação dos conceitos de aprendizado de máquina.                                | Prova teórica e prática sobre tópicos anteriores.      |
 | 9       | 🗣️ Seminários: Busca Heurística e Sistemas Especialistas | Apresentação e discussão de algoritmos de busca e sistemas de representação de conhecimento. | Algoritmos de busca (A*, Busca local), Lógica de programação|
-| 10      | 💻 Projeto Prático I                        | Desenvolvimento de solução de IA para problema específico.                          | Definição de problema, coleta e processamento de dados |
+| 10      | 💻 Projeto Prático I                        | Desenvolvimento de solução de IA para problema reais.                          | Definição de problema, analise dos resultados |
 | 11      | 🌳 Árvores de Decisão                        | Implementação e análise de modelos de árvore de decisão.                          | Scikit-learn, Decision Trees                            |
 | 12      | 🌲🌲🌲 Florestas Aleatórias                     | Desenvolvimento de modelos de florestas aleatórias.                               | Scikit-learn, Random Forests                           |
 | 13      | 📈 Aprendizado Estatístico                   | Modelos probabilísticos e inferência bayesiana.                                     | Modelos Bayesianos, Inferência estatistica              |
 | 14      | 👥 Agentes e Sistemas Multiagentes           | Simulação de sistemas distribuídos e interativos.                                  | Multi-agent systems, SimPy, ferramentas de simulação     |
 | 15-16   | 🧬 Computação Evolutiva                      | Algoritmos genéticos e otimização evolutiva.                                        | Genetic Algorithms, otimizadores e metaheurísticas.     |
-| 17      | 📝 Revisão                                  | Consolidação de tópicos avançados em IA.                                         | Revisão de algoritmos avançados e sistemas complexos. |
-| 18      | 📝 Prova                                    | Avaliação de algoritmos avançados e aplicações de IA.                        | Prova teórica e prática sobre tópicos avançados.    |
+| 17      | 📝 Revisão                                  | Consolidação de tópicos em IA.                                         | Revisão de algoritmos e sistemas complexos. |
+| 18      | 📝 Prova                                    | Avaliação de algoritmos e aplicações de IA.                        | Prova teórica e prática sobre tópicos avançados.    |
 | 19      | 🗣️ Seminários: Sistemas Fuzzy              | Apresentação e discussão de sistemas baseados em lógica nebulosa.              | Ferramentas de lógica fuzzy, Linguagem de programação    |
-| 20      | 💻 Projeto Prático II                       | Implementação de solução de IA para problema avançado.                            | Definição avançada de problema, analise dos resultados|
+| 20      | 💻 Projeto Prático II                       | Implementação de solução de IA para problema reais.                            | Definição de problema, analise dos resultados|
 
 
 ## 💡 Como Utilizar Este Repositório
 
-* **Exploração de Implementações Avançadas:** Estude e adapte códigos complexos.
-* **Análise de Experimentos Detalhados:** Compreenda técnicas avançadas através de experimentos.
-* **Desenvolvimento de Projetos Avançados:** Use projetos como referência e inspiração.
-* **Contribuição em Pesquisas:** Use os dados e modelos como base para pesquisas avançadas.
+* **Exploração de Implementações:** Estude e adapte códigos.
+* **Análise de Experimentos Detalhados:** Compreenda técnicas através de experimentos.
+* **Desenvolvimento de Projetos:** Use projetos como referência e inspiração.
+* **Contribuição em Pesquisas:** Use os dados e modelos como base para pesquisas.
 
 ## 🤝 Contribuição
 
