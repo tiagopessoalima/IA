@@ -38,8 +38,8 @@ A disciplina é dividida em 20 semanas, com aulas semanais e a seguinte distribu
 
 | Semana | Tópico | Detalhes | 🛠️ Ferramentas/Técnicas | Material de Apoio |
 | :-----: | :------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :---: |
-| 1       | 📚 [Apresentação da Disciplina](Aula_Semana_01_(IA).ipynb)              | Introdução à IA e visão geral da disciplina.                                     | Conceitos básicos de IA, objetivos do curso.              | Apostila, Colab
-| 2       | 🧠 [Perceptron](Aula_Semana_02_(IA).ipynb)                              | Implementação e análise de classificadores lineares.                               | Python, NumPy, Scikit-learn                             | Apostila, Colab
+| 1       | 📚 Apresentação da Disciplina              | Introdução à IA e visão geral da disciplina.                                     | Conceitos básicos de IA, objetivos do curso.              | Apostila, [Colab](Aula_Semana_01_(IA).ipynb)
+| 2       | 🧠 Perceptron                             | Implementação e análise de classificadores lineares.                               | Python, NumPy, Scikit-learn                             | Apostila, [Colab](Aula_Semana_02_(IA).ipynb)
 | 3       | 🌐 MLP (Redes Neurais Multicamadas)         | Desenvolvimento de redes neurais multicamadas.                                    | TensorFlow, Keras, PyTorch                              | Apostila, Colab
 | 4-5     | 📊 Classificação e Regressão                | Modelos preditivos para classificação e regressão.                               | Scikit-learn, Pandas, modelos lineares e não lineares  | Apostila, Colab
 | 6       | 🤝 Ensembles                                | Combinação de modelos para melhorar a performance.                                  | Scikit-learn, Ensemble methods                          | Apostila, Colab
